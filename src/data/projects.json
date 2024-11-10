@@ -1,0 +1,25 @@
+[
+    {
+      "id": "1",
+      "title": "Personalized Recipe Generator",
+      "description": "A MERN-based recipe generator that uses generative AI to provide tailored meal plans.",
+      "techStack": ["React", "Node.js", "MongoDB", "OpenAI API"],
+      "githubLink": "https://github.com/nOTpROGRAMMERr",
+      "liveLink": "https://recipe-generator.vercel.app",
+      "imageURL": "/images/recipe.png",
+      "dateCompleted": "2024-11-10",
+      "role": "Lead Developer"
+    },
+    {
+      "id": "2",
+      "title": "AI-powered Travel Planner",
+      "description": "Generates detailed itineraries based on user preferences and travel details.",
+      "techStack": ["React", "Flask", "Python", "AI/ML"],
+      "githubLink": "https://github.com/nOTpROGRAMMERr",
+      "liveLink": "https://globetrottersv2.pythonanywhere.com/home",
+      
+      "dateCompleted": "2024-06-15",
+      "role": "Developer"
+    }
+  ]
+  
